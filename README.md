@@ -120,7 +120,6 @@ I’m a developer who loves exploring modern programming languages, web developm
 <!-- GitHub Stats Badges (Optional) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ervareza&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ervareza&theme=tokyonight" alt="GitHub streak stats" width="48%"/> -->
 </p>
 
 ---
