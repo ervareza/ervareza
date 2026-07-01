@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Multi-Disciplinary Engineering Profile
 
-I am a highly versatile **Polymath Engineer**, operating at the intersection of Artificial Intelligence, Cloud Infrastructure, and advanced Software Development. As a core member of **[newsaintlabs](https://github.com/newsaintlabs)**, I design, architect, and deploy enterprise-grade systems from the ground up.
+I am a highly versatile **Polymath Engineer**, operating at the intersection of Artificial Intelligence, Cloud Infrastructure, and advanced Software Development. I design, architect, and deploy enterprise-grade systems from the ground up.
 
 My technical philosophy is simple: **Automate everything, optimize relentlessly, and scale infinitely.** By acting as a one-man powerhouse—augmented by massive, high-velocity AI pipelines (tracked live below)—I deliver the output, architecture, and reliability of an entire engineering division.
 
@@ -150,7 +150,6 @@ If you are a startup needing a scalable cloud architecture, an enterprise integr
 - 📧 **Email**: [rianskp544@gmail.com](mailto:rianskp544@gmail.com)
 - ✈️ **Telegram**: [@ervrza](https://t.me/ervrza)
 - 💬 **Discord**: [@angkasa_](https://discord.com/users/449565286459506720)
-- 🏢 **Organization**: [newsaintlabs](https://github.com/newsaintlabs)
 - 🔐 **GPG Key**: [GitHub GPG](https://github.com/ervareza.gpg)
 
 <br/>
