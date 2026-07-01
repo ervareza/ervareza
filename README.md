@@ -1,16 +1,29 @@
 <!-- Banner / Hero Section -->
-<img
-  align="right"
-  src="assets/avatar.jpg"
-  width="350"
-  style="border-radius: 50%; margin-left: 20px;"
-/>
+<h1 align="center">Hi there, I’m Erva Reza! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></h1>
 
-# Hi there, I’m **Shiro Neko**! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+<p align="center">
+  <a href="https://github.com/ervareza">
+    <img src="https://komarev.com/ghpvc/?username=ervareza&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
-I’m a developer who loves exploring modern programming languages, web development, and infrastructure. I enjoy experimenting with new technologies, applying best practices, and continuously learning to deliver efficient and scalable solutions.
+I'm an **AI-Augmented Software Engineer** and **Full-Stack Developer** who loves exploring modern programming languages, web development, and infrastructure. I build fast, scalable applications and leverage advanced AI tools to maximize productivity and deliver highly optimized solutions.
 
-> “Simplicity is the soul of efficiency.” – **Austin Freeman**
+> "Code at the speed of thought. Build at the scale of the future."
+
+---
+
+## ⚡ AI Productivity & Token Stats
+
+As a heavy adopter of AI-assisted development, I utilize tools like Google Antigravity, Copilot, and Cursor to accelerate my workflow. 
+
+<p align="center">
+  <a href="https://tokscale.ai/u/ervareza">
+    <img src="https://tokscale.ai/api/embed/ervareza/svg?color=blue&graph=1&tokens=full&cost=full" alt="Tokscale Stats" />
+  </a>
+</p>
+
+*(Generated over **2.3+ Billion** tokens and counting!)*
 
 ---
 
@@ -57,11 +70,8 @@ I’m a developer who loves exploring modern programming languages, web developm
   [![Bun Badge](https://img.shields.io/badge/bun-%23000000?style=flat&logo=bun&logoColor=white)](https://bun.sh/)
   [![Docker Badge](https://img.shields.io/badge/docker-%230db7ed?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
   [![Laravel Badge](https://img.shields.io/badge/laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
-  [![CodeIgniter Badge](https://img.shields.io/badge/codeigniter%203-EE4623?style=flat&logo=codeigniter&logoColor=white)](https://codeigniter.com/userguide3/)
-  [![CodeIgniter4 Badge](https://img.shields.io/badge/codeigniter%204-FB542B?style=flat&logo=codeigniter&logoColor=white)](https://codeigniter.com/docs)
   [![Tauri Badge](https://img.shields.io/badge/tauri-%2324C8DB?style=flat&logo=tauri&logoColor=%23FFFFFF)](https://tauri.app/)
   [![Nginx Badge](https://img.shields.io/badge/nginx-%23009639?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/)
-  [![Apache Badge](https://img.shields.io/badge/apache-%23D42029?style=flat&logo=apache&logoColor=white)](https://httpd.apache.org/)
   [![Turbo Badge](https://img.shields.io/badge/turbo%20repo%2Fpack-EF4444?style=flat&logo=turborepo&logoColor=white)](https://turbo.build/)
   [![PNPM Badge](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)](https://pnpm.io/)
   [![Kubernetes Badge](https://img.shields.io/badge/kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
@@ -95,31 +105,23 @@ I’m a developer who loves exploring modern programming languages, web developm
   [![Cloudflare Workers Badge](https://img.shields.io/badge/cloudflare%20workers-F38020.svg?style=flat&logo=cloudflareworkers&logoColor=white)](https://workers.cloudflare.com/)
   [![Grafana Badge](https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
   [![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)](https://wikipedia.org/wiki/Linux)
-  [![Windows Server Badge](https://img.shields.io/badge/windows%20server-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
-</details>
-
-<details>
-  <summary><strong>🚀 Currently Learning</strong></summary>
-  <br/>
-  
-  [![RabbitMQ Badge](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
-  [![DevOps Badge](https://img.shields.io/badge/devops-blue?style=flat&logo=devops&logoColor=white)](https://en.wikipedia.org/wiki/DevOps)
-  [![CI/CD Badge](https://img.shields.io/badge/CI%2FCD-yellow?style=flat&logo=githubactions&logoColor=white)](https://en.wikipedia.org/wiki/Continuous_integration)
 </details>
 
 ---
 
-## 🔗 Contact & Additional Info
+## 📈 GitHub Stats
 
-- **Public Key**: [GitHub GPG](https://github.com/ervareza.gpg)  
-- **Organization**: [newsaintlabs](https://github.com/newsaintlabs)
-- **Email**: [rianskp544@gmail.com](mailto:rianskp544@gmail.com)
-- **Telegram**: [@ervrza](https://t.me/ervrza)
-- **Discord**: [@angkasa_](https://discord.com/users/449565286459506720)
-
-<!-- GitHub Stats Badges (Optional) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ervareza&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ervareza&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
+
+## 🔗 Contact & Let's Connect!
+
+- **Email**: [rianskp544@gmail.com](mailto:rianskp544@gmail.com)
+- **Telegram**: [@ervrza](https://t.me/ervrza)
+- **Discord**: [@angkasa_](https://discord.com/users/449565286459506720)
+- **Organization**: [newsaintlabs](https://github.com/newsaintlabs)
+- **Public Key**: [GitHub GPG](https://github.com/ervareza.gpg)  
