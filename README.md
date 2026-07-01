@@ -20,7 +20,7 @@
 
 I am a highly versatile **Polymath Engineer**, operating at the intersection of Artificial Intelligence, Cloud Infrastructure, and advanced Software Development. As a core member of **[newsaintlabs](https://github.com/newsaintlabs)**, I design, architect, and deploy enterprise-grade systems from the ground up.
 
-My technical philosophy is simple: **Automate everything, optimize relentlessly, and scale infinitely.** By acting as a one-man powerhouse—augmented by 2.3+ billion AI tokens—I deliver the output, architecture, and reliability of an entire engineering division.
+My technical philosophy is simple: **Automate everything, optimize relentlessly, and scale infinitely.** By acting as a one-man powerhouse—augmented by massive, high-velocity AI pipelines (tracked live below)—I deliver the output, architecture, and reliability of an entire engineering division.
 
 ---
 
@@ -58,45 +58,65 @@ My technical philosophy is simple: **Automate everything, optimize relentlessly,
 
 ---
 
-## 💻 Comprehensive Tech Stack
+## 💻 Tech Stack & Tooling
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-222222?style=for-the-badge&logo=anthropic&logoColor=white" />
-</p>
+<details open>
+  <summary><strong>🤖 AI & Machine Learning Ecosystem</strong></summary>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Anthropic-222222?style=for-the-badge&logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><strong>☁️ Cloud, DevOps & Infrastructure</strong></summary>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </p>
+</details>
+
+<details open>
+  <summary><strong>⚡ High-Performance Systems & Backend</strong></summary>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><strong>🌐 Modern Frontend & Full-Stack</strong></summary>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </p>
+</details>
 
 ---
 
-## ⚡ The AI Cyborg Paradigm: 2.3+ Billion Tokens
+## ⚡ The AI Cyborg Paradigm
 
 As an AI-Augmented Engineer, I utilize cutting-edge AI environments to write, refactor, and architect code at superhuman speeds. 
 
@@ -104,7 +124,7 @@ As an AI-Augmented Engineer, I utilize cutting-edge AI environments to write, re
   <a href="https://tokscale.ai/u/ervareza">
     <img src="https://tokscale.ai/api/embed/ervareza/svg?color=blue&graph=1&tokens=full&cost=full" alt="Tokscale Stats" />
   </a>
-  <p><em>In a short time, I have generated and processed over <strong>2,315,961,985 AI tokens</strong>. This metric represents intense automated system building, architectural planning, and rapid iterations that outpace traditional development methodologies by orders of magnitude.</em></p>
+  <p><em>The live metric above represents my intense automated system building, architectural planning, and rapid iterations that outpace traditional development methodologies by orders of magnitude.</em></p>
 </div>
 
 ---
