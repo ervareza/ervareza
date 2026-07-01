@@ -1,127 +1,179 @@
-<!-- Banner / Hero Section -->
-<h1 align="center">Hi there, I’m Erva Reza! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></h1>
+<!-- Hero Section -->
+<h1 align="center">Hi, I'm Ervareza Naurian 👋</h1>
+<h3 align="center">AI-Augmented Software Engineer | Full-Stack Developer | Open-Source Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/ervareza">
     <img src="https://komarev.com/ghpvc/?username=ervareza&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
+  <a href="https://github.com/ervareza">
+    <img src="https://img.shields.io/github/followers/ervareza?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
+  </a>
 </p>
 
-I'm an **AI-Augmented Software Engineer** and **Full-Stack Developer** who loves exploring modern programming languages, web development, and infrastructure. I build fast, scalable applications and leverage advanced AI tools to maximize productivity and deliver highly optimized solutions.
-
-> "Code at the speed of thought. Build at the scale of the future."
+<p align="center">
+  I am a passionate developer focused on building scalable, high-performance systems and modern web applications. 
+  By heavily integrating AI into my workflow, I code at the speed of thought—transforming complex ideas into reality with unmatched efficiency.
+</p>
 
 ---
 
-## ⚡ AI Productivity & Token Stats
+## 👨‍💻 About Me
 
-As a heavy adopter of AI-assisted development, I utilize tools like Google Antigravity, Copilot, and Cursor to accelerate my workflow. 
+- 🏢 **Current Role**: Software Engineer & Member of [newsaintlabs](https://github.com/newsaintlabs)
+- 🛠 **What I Build**: Scalable backend architectures, responsive frontends, and cross-platform tools.
+- 💡 **Interests**: Cloud Infrastructure, DevOps, AI-Assisted Development, and Systems Programming.
+- 🎯 **Goals**: To architect systems that serve millions and to push the boundaries of developer productivity using AI.
+- ❤️ **Passion**: Writing clean, maintainable code and continuously exploring bleeding-edge technologies.
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+### Mobile & Desktop
+<p>
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" />
+</p>
+
+### Database
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+  <summary><strong>[Project Name Placeholder]</strong></summary>
+  <br/>
+  
+  - **Purpose**: [Brief explanation of what the project solves]
+  - **Technologies**: [E.g., Next.js, Go, PostgreSQL, Docker]
+  - **Features**: [Key feature 1], [Key feature 2]
+  - **Challenges**: [What was hard and how I solved it]
+  - **Status**: Active / In Development
+</details>
+
+<details>
+  <summary><strong>[Open Source Contribution / Side Project Placeholder]</strong></summary>
+  <br/>
+  
+  - **Purpose**: [Brief explanation]
+  - **Technologies**: [Stack used]
+  - **Features**: [Highlight features]
+  - **Status**: Maintained
+</details>
+
+*(Note: Replace placeholders with your actual flagship projects.)*
+
+---
+
+## 🔭 Current Focus
+
+- **Deepening Systems Programming**: Actively learning and building with Rust and Go for highly concurrent applications.
+- **AI Integration**: Exploring novel ways to integrate Large Language Models (LLMs) into standard software architectures.
+- **Infrastructure as Code**: Perfecting CI/CD pipelines using Terraform, Docker, and Kubernetes for robust deployments.
+
+---
+
+## 🧠 Development Philosophy
+
+I believe in **"Simplicity as the soul of efficiency."** 
+When engineering solutions, my priorities are:
+1. **Maintainability**: Code is read far more often than it is written. Clean architectures and well-documented codebases are non-negotiable.
+2. **AI-Augmentation**: I don't just write code; I orchestrate it. By leveraging advanced tools like Copilot, Cursor, and Google Antigravity, I multiply my output while maintaining high standards of quality.
+3. **Performance First**: Whether it's selecting the right database index or choosing a systems-level language like Rust/Go for critical microservices, I design for speed and scale.
+
+---
+
+## 📊 AI Productivity & GitHub Stats
+
+### Tokscale Insights
+I am a power-user of AI development tools. My token generation stats reflect an intense, high-velocity coding environment.
 
 <p align="center">
   <a href="https://tokscale.ai/u/ervareza">
     <img src="https://tokscale.ai/api/embed/ervareza/svg?color=blue&graph=1&tokens=full&cost=full" alt="Tokscale Stats" />
   </a>
 </p>
+<p align="center"><em>Generated over <strong>2.3+ Billion</strong> AI tokens, equivalent to thousands of hours of accelerated engineering.</em></p>
 
-*(Generated over **2.3+ Billion** tokens and counting!)*
-
----
-
-## 💼 Experience & Skillset
-
-<details>
-  <summary><strong>💻 Programming Languages</strong></summary>
-  <br/>
-  
-  [![TypeScript Badge](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript)
-  [![Go Badge](https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
-  [![Rust Badge](https://img.shields.io/badge/rust-%23000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-  [![GraphQL Badge](https://img.shields.io/badge/-graphql-E10098?style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
-  [![Python Badge](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-  [![Swift Badge](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
-  [![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-  [![C++ Badge](https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-  [![PHP Badge](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
-  [![Dart Badge](https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev/)
-</details>
-
-<details>
-  <summary><strong>🌐 Web Stack</strong></summary>
-  <br/>
-  
-  [![React.js Badge](https://img.shields.io/badge/react.js-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
-  [![Next.js Badge](https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
-  [![Vue.js Badge](https://img.shields.io/badge/vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
-  [![Nuxt.js Badge](https://img.shields.io/badge/nuxt.js-002E3B?style=flat&logo=nuxt&logoColor=#00DC82)](https://nuxt.com/)
-  [![HTML Badge](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML)
-  [![CSS Badge](https://img.shields.io/badge/css-%231572B6?style=flat&logo=css&logoColor=white)](https://wikipedia.org/wiki/CSS)
-  [![SASS Badge](https://img.shields.io/badge/sass-hotpink?style=flat&logo=SASS&logoColor=white)](https://sass-lang.com/)
-  [![TailwindCSS Badge](https://img.shields.io/badge/tailwind_css-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-  [![Bootstrap Badge](https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-</details>
-
-<details>
-  <summary><strong>🔧 Backend & Infrastructure</strong></summary>
-  <br/>
-  
-  [![Node.js Badge](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-  [![Deno Badge](https://img.shields.io/badge/deno-000000?style=flat&logo=deno&logoColor=white)](https://deno.com/)
-  [![Bun Badge](https://img.shields.io/badge/bun-%23000000?style=flat&logo=bun&logoColor=white)](https://bun.sh/)
-  [![Docker Badge](https://img.shields.io/badge/docker-%230db7ed?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-  [![Laravel Badge](https://img.shields.io/badge/laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
-  [![Tauri Badge](https://img.shields.io/badge/tauri-%2324C8DB?style=flat&logo=tauri&logoColor=%23FFFFFF)](https://tauri.app/)
-  [![Nginx Badge](https://img.shields.io/badge/nginx-%23009639?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/)
-  [![Turbo Badge](https://img.shields.io/badge/turbo%20repo%2Fpack-EF4444?style=flat&logo=turborepo&logoColor=white)](https://turbo.build/)
-  [![PNPM Badge](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)](https://pnpm.io/)
-  [![Kubernetes Badge](https://img.shields.io/badge/kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-  [![Terraform Badge](https://img.shields.io/badge/terraform-844FBA?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io/)
-</details>
-
-<details>
-  <summary><strong>🗄️ Databases</strong></summary>
-  <br/>
-  
-  [![MySQL Badge](https://img.shields.io/badge/mysql-%2300f?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-  [![MariaDB Badge](https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org/)
-  [![PlanetScale Badge](https://img.shields.io/badge/planetscale-%23000000?style=flat&logo=planetscale&logoColor=white)](https://planetscale.com/)
-  [![PostgreSQL Badge](https://img.shields.io/badge/postgresql-%23316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-  [![MongoDB Badge](https://img.shields.io/badge/mongodb-%234ea94b?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-  [![Redis Badge](https://img.shields.io/badge/redis-%23DD0031?style=flat&logo=redis&logoColor=white)](https://redis.io/)
-  [![SQLite Badge](https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-</details>
-
-<details>
-  <summary><strong>⚙️ General Tools</strong></summary>
-  <br/>
-  
-  [![Git Badge](https://img.shields.io/badge/git-%23F05033?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-  [![GitHub Badge](https://img.shields.io/badge/github-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/)
-  [![GitHub Actions Badge](https://img.shields.io/badge/github%20actions-%232671E5?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-  [![GitLab Badge](https://img.shields.io/badge/gitlab-%23181717?style=flat&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
-  [![Google Cloud Badge](https://img.shields.io/badge/google%20cloud-%234285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-  [![AWS Badge](https://img.shields.io/badge/aws-%23FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
-  [![Cloudflare Badge](https://img.shields.io/badge/cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
-  [![Cloudflare Workers Badge](https://img.shields.io/badge/cloudflare%20workers-F38020.svg?style=flat&logo=cloudflareworkers&logoColor=white)](https://workers.cloudflare.com/)
-  [![Grafana Badge](https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
-  [![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)](https://wikipedia.org/wiki/Linux)
-</details>
-
----
-
-## 📈 GitHub Stats
-
+### Open Source Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ervareza&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ervareza&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ervareza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ervareza Naurian's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ervareza&theme=tokyonight&hide_border=true&background=0D1117" alt="Ervareza Naurian's GitHub Streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ervareza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-## 🔗 Contact & Let's Connect!
+## 🏗 Architecture Interests
+
+I genuinely enjoy building:
+- **Event-Driven Microservices**: Utilizing message brokers (RabbitMQ/Kafka) combined with fast backends (Go/Node.js).
+- **Serverless Ecosystems**: Deploying edge-functions on Cloudflare Workers for zero-latency global delivery.
+- **High-Availability Data Layers**: Setting up resilient databases with Redis caching and PostgreSQL/PlanetScale.
+
+---
+
+## ⚡ Fun Facts
+
+- 🤖 **Cyborg Developer**: With over 2.3 billion AI tokens generated, my IDE practically reads my mind.
+- 🐧 **Linux Enthusiast**: I feel most at home in a terminal environment.
+- ☕ **Fuel**: Powered by curiosity (and probably too much caffeine).
+
+---
+
+## 📫 Let's Connect!
+
+I am always open to discussing new opportunities, architecture designs, or exciting open-source projects.
 
 - **Email**: [rianskp544@gmail.com](mailto:rianskp544@gmail.com)
 - **Telegram**: [@ervrza](https://t.me/ervrza)
 - **Discord**: [@angkasa_](https://discord.com/users/449565286459506720)
 - **Organization**: [newsaintlabs](https://github.com/newsaintlabs)
-- **Public Key**: [GitHub GPG](https://github.com/ervareza.gpg)  
+- **GPG Key**: [GitHub GPG](https://github.com/ervareza.gpg)
+
+<br/>
+<p align="center">
+  <i>"Code is poetry, written for machines but meant for humans."</i>
+</p>
