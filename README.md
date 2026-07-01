@@ -6,7 +6,6 @@
 
   <p>
     <a href="https://github.com/ervareza"><img src="https://komarev.com/ghpvc/?username=ervareza&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
-    <a href="https://github.com/ervareza"><img src="https://img.shields.io/github/followers/ervareza?label=Followers&style=flat&color=blue" alt="GitHub Followers" /></a>
   </p>
 
   <p>
