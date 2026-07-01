@@ -30,7 +30,7 @@ My technical philosophy is simple: **Automate everything, optimize relentlessly,
   <summary><strong>🤖 AI & Machine Learning Engineering</strong></summary>
   <br/>
   <ul>
-    <li><b>LLM Orchestration & RAG:</b> Designing advanced Retrieval-Augmented Generation systems and integrating frontier models (GPT-4, Claude 3.5 Opus, Gemini Pro) into production workflows.</li>
+    <li><b>LLM Orchestration & RAG:</b> Designing advanced Retrieval-Augmented Generation systems and integrating frontier models (OpenAI GPT, Anthropic Claude, Google Gemini, xAI Grok) into production workflows.</li>
     <li><b>AI-Augmented Development:</b> Utilizing tools like Google Antigravity, GitHub Copilot, and Cursor to generate complex codebases, reducing development cycles by 10x.</li>
     <li><b>Generative AI Infrastructure:</b> Building scalable API gateways and caching layers specifically optimized for high-throughput AI inference tasks.</li>
   </ul>
