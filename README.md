@@ -121,7 +121,7 @@ As an AI-Augmented Engineer, I utilize cutting-edge AI environments to write, re
 
 <div align="center">
   <a href="https://tokscale.ai/u/ervareza">
-    <img src="https://tokscale.ai/api/embed/ervareza/svg?color=blue&graph=1&tokens=full&cost=full" alt="Tokscale Stats" />
+    <img src="https://tokscale.ai/api/embed/ervareza/svg?template=blueprint&graph=1&tokens=full&cost=full" alt="Tokscale Stats" />
   </a>
   <p><em>The live metric above represents my intense automated system building, architectural planning, and rapid iterations that outpace traditional development methodologies by orders of magnitude.</em></p>
 </div>
