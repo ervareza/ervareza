@@ -1,3 +1,15 @@
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" bgcolor="#161b22" style="padding: 12px; border-radius: 12px 12px 0 0;">
+        🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp;&nbsp;&nbsp; <b>ervareza@macbook-pro:~ (zsh)</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td bgcolor="#0d1117" style="padding: 24px; border-radius: 0 0 12px 12px;">
+
 <!-- Hero Banner -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
@@ -135,28 +147,18 @@ As an AI-Augmented Engineer, I utilize cutting-edge AI environments to write, re
 
 ## 📊 Open Source & GitHub Analytics
 
-<table width="100%">
-  <tr>
-    <td bgcolor="#161b22" align="left" style="padding: 10px; border-radius: 8px 8px 0 0;">
-      🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp;&nbsp;&nbsp; <b>ervareza@macbook-pro:~ (zsh)</b>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#0d1117" align="center" style="padding: 20px;">
-      <br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=ervareza&theme=tokyonight&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" />
-      <br/><br/>
-      <p align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ervareza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ervareza Naurian's GitHub Stats" width="48%" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ervareza&theme=tokyonight&hide_border=true&background=0D1117" alt="Ervareza Naurian's GitHub Streak" width="48%" />
-      </p>
-      <p align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ervareza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-      </p>
-      <br/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ervareza&theme=tokyonight&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" />
+</div>
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ervareza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ervareza Naurian's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ervareza&theme=tokyonight&hide_border=true&background=0D1117" alt="Ervareza Naurian's GitHub Streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ervareza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
@@ -174,3 +176,8 @@ If you are a startup needing a scalable cloud architecture, an enterprise integr
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
 </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
