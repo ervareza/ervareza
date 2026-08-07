@@ -177,7 +177,7 @@ If you are a startup needing a scalable cloud architecture, an enterprise integr
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
 </div>
 
-      </td>
-    </tr>
-  </tbody>
+</td>
+</tr>
+</tbody>
 </table>
