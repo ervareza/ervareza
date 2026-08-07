@@ -166,7 +166,7 @@ As an AI-Augmented Engineer, I utilize cutting-edge AI environments to write, re
 
 If you are a startup needing a scalable cloud architecture, an enterprise integrating AI into your pipeline, or a fellow developer looking to collaborate on bleeding-edge open-source projects—I am ready to build.
 
-- 📧 **Email**: [rianskp544@gmail.com](mailto:rianskp544@gmail.com)
+- 📧 **Email**: [ervarezanaurian@gmail.com](mailto:ervarezanaurian@gmail.com)
 - ✈️ **Telegram**: [@ervrza](https://t.me/ervrza)
 - 💬 **Discord**: [@angkasa_](https://discord.com/users/449565286459506720)
 - 🔐 **GPG Key**: [GitHub GPG](https://github.com/ervareza.gpg)
