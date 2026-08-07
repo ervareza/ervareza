@@ -133,11 +133,11 @@ As an AI-Augmented Engineer, I utilize cutting-edge AI environments to write, re
 A snapshot of my daily code contributions and streak consistency.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ervareza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ervareza Naurian's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ervareza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ervareza Naurian's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ervareza&theme=tokyonight&hide_border=true&background=0D1117" alt="Ervareza Naurian's GitHub Streak" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ervareza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ervareza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </p>
 
 ---
