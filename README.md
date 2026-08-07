@@ -2,7 +2,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
   <h1>Hi, I'm Ervareza Naurian 👋</h1>
-  <h3>AI/ML Engineer | Cloud Architect | DevOps Specialist | Systems & Full-Stack Developer</h3>
+
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+ervareza%40macbook-pro%3A~+%24+whoami;AI-Augmented+Systems+Architect;Cloud+DevOps+%26+Edge+Engineering;Code+at+the+Speed+of+Thought" alt="Typing SVG" />
+    </a>
+  </p>
 
   <p>
     <a href="https://github.com/ervareza"><img src="https://komarev.com/ghpvc/?username=ervareza&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
@@ -130,15 +135,28 @@ As an AI-Augmented Engineer, I utilize cutting-edge AI environments to write, re
 
 ## 📊 Open Source & GitHub Analytics
 
-A snapshot of my daily code contributions and streak consistency.
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ervareza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ervareza Naurian's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ervareza&theme=tokyonight&hide_border=true&background=0D1117" alt="Ervareza Naurian's GitHub Streak" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ervareza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
+<table width="100%">
+  <tr>
+    <td bgcolor="#161b22" align="left" style="padding: 10px; border-radius: 8px 8px 0 0;">
+      🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp;&nbsp;&nbsp; <b>ervareza@macbook-pro:~ (zsh)</b>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0d1117" align="center" style="padding: 20px;">
+      <br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=ervareza&theme=tokyonight&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" />
+      <br/><br/>
+      <p align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ervareza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ervareza Naurian's GitHub Stats" width="48%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ervareza&theme=tokyonight&hide_border=true&background=0D1117" alt="Ervareza Naurian's GitHub Streak" width="48%" />
+      </p>
+      <p align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ervareza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+      </p>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
