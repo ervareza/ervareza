@@ -148,7 +148,7 @@ As an AI-Augmented Engineer, I utilize cutting-edge AI environments to write, re
 ## 📊 Open Source & GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ervareza&theme=tokyonight&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ervareza&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%" />
 </div>
 <br/>
 
